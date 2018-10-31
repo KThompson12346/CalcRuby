@@ -1,6 +1,7 @@
-# Ruby Calculator TDD Homework
+﻿# Ruby Calculator TDD Homework
 ## Timings
-45 - 90 minutes
+45 - 90 minutes --
+
 
 ## Tasks
 Your task is to write a Ruby Calculator application that has four settings, (b)asic, (a)dvanced, (i)bmi and (t)trip
